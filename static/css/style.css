@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;  /* Change this to your desired font family */
+    background-color: black;
+      background-image: url('images/bg.jpg'); /* Adjust path for your image */
+      background-repeat: no-repeat; /* Control image repetition (optional) */
+      background-position: center; /* Adjust image position (optional) */
+      background-size: cover; /* Resize image to fit (optional) */
+  }
+  
+  
+  h2 {
+    text-align: center;
+    color: white;
+    margin: 2rem 0;  /* Adjust margin as needed */
+  }
+  
+  div {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
